@@ -1,0 +1,4 @@
+*.sql linguist-detectable=true
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.jpeg linguist-detectable=false

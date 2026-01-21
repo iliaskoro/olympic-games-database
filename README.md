@@ -138,11 +138,9 @@ Includes SQL statements related to user creation and privilege management for th
 - The repository is structured to be reproducible and self-contained.
 
 ## Author
-
 Ilias Korompilis
 
 ## License
-
 Academic and educational use only.
 
 

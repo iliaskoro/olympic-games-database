@@ -109,11 +109,8 @@ This file can be opened directly with MySQL Workbench.
 The queries/ directory contains standalone SQL queries demonstrating:
 
 - Multi-table joins
-
 - Aggregations and filtering
-
 - View-based querying
-
 - Realistic database use cases
 
 sql/queries/
@@ -150,5 +147,6 @@ Ilias Korompilis
 ## License
 
 Academic and educational use only.
+
 
 

@@ -143,9 +143,7 @@ Includes SQL statements related to user creation and privilege management for th
 ## Notes
 
 - No PDFs or evaluation documents are included by design.
-
 - All diagrams are provided as images for direct GitHub viewing.
-
 - The repository is structured to be reproducible and self-contained.
 
 ## Author
@@ -155,3 +153,4 @@ Ilias Korompilis
 ## License
 
 Academic and educational use only.
+

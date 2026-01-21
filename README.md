@@ -133,11 +133,8 @@ Includes SQL statements related to user creation and privilege management for th
 ## Technologies Used
 
 - MySQL / MariaDB
-
 - MySQL Workbench
-
 - SQL (DDL, DML, Views)
-
 - ER Modeling
 
 ## Notes
@@ -153,4 +150,5 @@ Ilias Korompilis
 ## License
 
 Academic and educational use only.
+
 

@@ -89,11 +89,8 @@ To initialize the database:
 This script:
 
 - Drops and recreates the schema
-
 - Creates all tables and constraints
-
 - Inserts representative dataset records
-
 - Defines SQL views for reporting queries
 
 MySQL Workbench Model
@@ -147,6 +144,7 @@ Ilias Korompilis
 ## License
 
 Academic and educational use only.
+
 
 
 
